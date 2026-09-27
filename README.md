@@ -1,4 +1,9 @@
-# SNAKE-GAME
+<div align="center">
+  <h1>Snake Game — Product Concept</h1>
+  <p>An early interaction-design concept, retained with transparent project status</p>
+  <img src="https://img.shields.io/badge/status-archived-6B7280?style=flat-square" alt="Status: archived" />
+  <img src="https://img.shields.io/badge/type-design%20concept-F59E0B?style=flat-square" alt="Design concept" />
+</div>
 
 > [!NOTE]
 > **Archived project concept.** This repository is preserved as a short project record. The original playable source is not present in this repository, so it is not presented as a current portfolio project.
