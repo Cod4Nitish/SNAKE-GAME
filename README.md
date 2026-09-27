@@ -1,2 +1,6 @@
 # SNAKE-GAME
-🐍 Gen-Z Snake Game – Modern, responsive snake game in HTML/CSS/JS with Start/Stop, levels, speed-up, dark/light mode, colorful visuals, and arrow key controls. Classic gameplay with a vibrant Gen-Z twist! 🎮
+
+> [!NOTE]
+> **Archived project concept.** This repository is preserved as a short project record. The original playable source is not present in this repository, so it is not presented as a current portfolio project.
+
+🐍 A planned Gen-Z styled Snake Game concept: responsive HTML/CSS/JS gameplay with start/stop controls, levels, speed changes, dark/light modes, and arrow-key controls.
